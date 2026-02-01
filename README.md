@@ -44,6 +44,6 @@ Desenvolver lógica de programação
 Seguir padrões próximos aos utilizados no mercado
 
 👤 Autor
-
 Matheus Guimarães
+
 Desenvolvedor Java em formação
