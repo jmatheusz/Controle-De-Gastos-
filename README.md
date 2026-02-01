@@ -9,7 +9,7 @@ Este projeto foi criado com o objetivo de consolidar conhecimentos em Java, simu
 ## 🛠️ Tecnologias e Ferramentas
 
 - Java 17+
-- IntelliJ IDEA / Eclipse
+- IntelliJ IDEA 
 - Programação Orientada a Objetos (POO)
 - Tratamento de Exceções
 - Collections Framework
